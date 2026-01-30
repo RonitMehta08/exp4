@@ -1,7 +1,9 @@
 # 📘 Study of Sets in Python
 
 **File:** `exp4.ipynb`  
-**Experiment:** Python Sets
+**Experiment:** Study of Sets in Python
+**Name:** Ronit Mehta
+**PRN:** 25070123094
 
 ---
 
