@@ -10,7 +10,7 @@
 ---
 
 ## 🎯 Aim
-To study and implement **Python Sets** and perform operations such as creation of sets, handling duplicate values, adding and removing elements, performing set operations, understanding `frozenset`, and solving real-life problems using sets.
+To study and implement **Python Sets**
 
 ---
 
